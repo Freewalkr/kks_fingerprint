@@ -1,0 +1,62 @@
+let DEFAULT_UA = navigator.userAgent;
+let CUSTOM_UA = DEFAULT_UA;
+function init() {
+    bindOnBeforeSendHeaders();
+    bindOnMessage();
+}
+
+function onBeforeSendHeadersCallback(details) {
+    if (CUSTOM_UA === DEFAULT_UA) {
+        return;
+    }
+
+    for (let i = 0; i < details.requestHeaders.length; i++) {
+        if (details.requestHeaders[i].name !== 'User-Agent') {
+            continue;
+        }
+        details.requestHeaders[i].value = CUSTOM_UA;
+        break;
+    }
+
+    return {
+        requestHeaders: details.requestHeaders
+    };
+}
+
+function bindOnBeforeSendHeaders() {
+    browser.webRequest.onBeforeSendHeaders.addListener(
+        onBeforeSendHeadersCallback,
+        { urls: ["<all_urls>"] },
+        ["blocking", "requestHeaders"]
+    );
+}
+
+function bindOnMessage() {
+    browser.runtime.onMessage.addListener(function(msg, sender, callback) {
+        if (msg.type === 'getUA') {
+            callback(CUSTOM_UA);
+        } else if (msg.type === 'setUA') {
+            gotMessageSetUA(msg.ua);
+        } else if (msg.type === 'resetUA') {
+            gotMessageResetUA();
+        }
+    });
+}
+
+function gotMessageSetUA(ua) {
+    if (ua === '') {
+        CUSTOM_UA = DEFAULT_UA;
+    } else {
+        CUSTOM_UA = ua;
+    }
+}
+
+function gotMessageResetUA() {
+    CUSTOM_UA = DEFAULT_UA;
+}
+
+function isString(input) {
+    return input !== undefined && input !== null && typeof(input) === 'string';
+}
+
+init();
