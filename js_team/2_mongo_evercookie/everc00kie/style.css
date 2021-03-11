@@ -1,0 +1,37 @@
+#evercookie_loading {
+	display: none;
+}
+
+#evercookie_loading > * {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+/* loading spinner */
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 3px solid #0062cc;
+  border-color: #0062cc transparent #0062cc transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+/* end of loading spinner */
+
+#ec_result_table, #try_again { display: none; }
+
+.article {
+    max-width: 60em;
+    margin: 4em auto 0 auto;
+}

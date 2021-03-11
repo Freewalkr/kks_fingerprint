@@ -1,0 +1,45 @@
+.introduction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#google, #opera, #firefox, #gistagram{
+    max-width:1000px;
+    max-height:1000px;
+    margin:auto;
+}
+.tab-header{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.firefox-descr{
+    text-align: center;
+}
+.table-header{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.measured{
+    text-align: center;
+}
+.center{   
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.custom{
+    max-width: 400px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.none{
+    display:none;
+}
+.hide-tables, .show-tables{
+    margin-bottom: 20px;
+}
+.text-descr{
+    /*text-align: center;*/
+    font-weight: 300;
+}
