@@ -1,0 +1,196 @@
+.none {
+	display: none;
+}
+
+#data_table {
+	max-width: 1200px;
+    table-layout: fixed;
+    margin: 0 auto;
+}
+
+.entry {
+    background: #f5f5f5;
+}
+
+.entry:nth-child(odd) {
+    background: #FFF;
+}
+
+.entry:hover {
+    background: palegreen;
+}
+
+.entry_name {
+    width: 15em;
+    font-weight: bold;
+    padding: 0 1em;
+}
+
+.entry_value {
+    word-break: break-all;
+    padding: 0.5em 0em;
+}
+
+.entry_value > div {
+    max-height: 10em;
+    overflow: hidden;
+}
+
+
+.entry_percents {
+    width: 10em;
+    padding: 0 2em;
+    font-weight: bold;
+	text-align: right;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 1em auto;
+    padding: 1.5em;
+}
+
+.article {
+    max-width: 60em;
+    margin: 4em auto;
+}
+
+.greeting {
+    background: #EEE;
+    padding: 0.8em;
+    font-size: 1.8em;
+    border-radius: 15px;
+    border: 6px solid #BBB;
+    box-shadow: 1px 1px 9px 1px #CCC;
+    text-align: center;
+}
+
+#greet_old {
+    background: #ffc2c2;
+    border-color: #c03939;
+}
+
+#greet_new {
+    background: #e1ffc0;
+    border-color: hsl(89 54% 49% / 1);
+}
+
+
+@media screen and (max-width: 500px){
+	.entry_name {
+		font-size: 0.9em;
+		word-break: break-all;
+		width: 10em;
+		padding: 0.5em 1em;
+	}
+	.entry_percents {
+		width: 6em;
+		padding-left: 1em;
+		padding: 0 1em;
+	}
+	.greeting {
+		font-size: 1.4em;
+	}
+}
+
+.center {
+	text-align: center;
+}
+
+.red {
+    color: #C00;
+}
+
+.green {
+    color: #009212;
+}
+
+.yel {
+    color: #af7900;
+}
+
+.library-wrapper{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.screen{
+    position:absolute;
+    transition-duration: 0.5s;
+}
+
+.invis {
+	opacity: 0;
+	visibility: hidden;
+}
+
+.site-header{
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.screen-wrapper {
+	position: relative;
+	padding: 150px 30px;
+	width: 80vw;
+	min-height: 500px;
+}
+
+.screen-wrapper:before{
+    content:'';
+    position:absolute;
+    top:0;
+    width:100%;
+    height:100%;   
+    background: url(./img/fingerprint.png) center no-repeat;
+    z-index: -2;
+}
+
+.btn-props{
+    margin-top: 20px;
+    align-self: center;
+}
+
+
+#info_screen {
+	padding: 2em;
+	background: #FFFFFFBB;
+}
+
+
+.visit {
+	margin: 2em 1em;
+}
+
+.allvisits td {
+    /* min-width: 6em; */
+    max-width: 30em;
+    max-height: 3em;
+    overflow: hidden;
+    padding: 0 2em;
+    /* word-break: break-all; */
+    /* max-height: 3em; */
+    background: #f5f5f5;
+    background: inherit;
+}
+
+.allvisits td:first-child {
+    position: sticky;
+    left: 0;
+}
+
+table.allvisits {
+    position: relative;
+}
+
+.scrollbox {
+    max-height: 80vh;
+    max-width: 80vw;
+    overflow: scroll;
+}
+
+.allvisits-wrapper {
+    margin: 4em 1em;
+}
