@@ -1,0 +1,301 @@
+name,languages,colorDepth,deviceMemory,screenResolution,hardwareConcurrency,timezoneOffset,sessionStorage,localStorage,indexedDB,openDatabase,platform,touchSupport,fonts,pluginsSupport,chrome,cookiesEnabled
+Anatolii,ru,24,1,"[1280,800]",12,240,true,true,false,false,Linux,false,"[""Georgia""]",false,false,true
+Anatolii,ru,24,1,"[1280,800]",12,240,true,true,false,false,Linux,false,"[""Georgia""]",false,false,true
+Hilbert,ru,12,64,"[1920,1440]",16,180,false,true,true,true,Win32,true,"[""Georgia""]",false,true,false
+Anatolii,ru,24,1,"[1280,800]",12,240,true,true,false,false,Linux,false,"[""Georgia""]",false,false,true
+Hilbert,ru,12,64,"[1920,1440]",16,180,false,true,true,true,Win32,true,"[""Georgia""]",false,true,false
+Andrei,en,8,4,"[1280,960]",16,600,true,true,false,true,Win64,false,"[""Museo""]",true,true,false
+Hilbert,ru,12,64,"[1920,1440]",16,180,false,true,true,true,Win32,true,"[""Georgia""]",false,true,false
+Filipp,ru,8,2,"[2560,1440]",2,720,false,false,true,true,Win32,true,"[""Roboto""]",true,true,false
+Andrei,en,8,4,"[1280,960]",16,600,true,true,false,true,Win64,false,"[""Museo""]",true,true,false
+Andrei,en,8,4,"[1280,960]",16,600,true,true,false,true,Win64,false,"[""Museo""]",true,true,false
+Filipp,ru,8,2,"[2560,1440]",2,720,false,false,true,true,Win32,true,"[""Roboto""]",true,true,false
+Filipp,ru,8,2,"[2560,1440]",2,720,false,false,true,true,Win32,true,"[""Roboto""]",true,true,false
+Maksim,ru,12,32,"[1280,960]",12,180,false,true,false,true,Mac,true,"[""Georgia""]",true,false,true
+Maksim,ru,12,32,"[1280,960]",12,180,false,true,false,true,Mac,true,"[""Georgia""]",true,false,true
+Maksim,ru,12,32,"[1280,960]",12,180,false,true,false,true,Mac,true,"[""Georgia""]",true,false,true
+Stas,en,12,16,"[1440,900]",2,300,false,true,false,true,Win64,true,"[""Georgia""]",true,true,true
+Stas,en,12,16,"[1440,900]",2,300,false,true,false,true,Win64,true,"[""Georgia""]",true,true,true
+Stas,en,12,16,"[1440,900]",2,300,false,true,false,true,Win64,true,"[""Georgia""]",true,true,true
+Conrad,ru,8,4,"[1024,576]",8,480,true,true,false,true,Linux,true,"[""Verdana""]",false,false,true
+Conrad,ru,8,4,"[1024,576]",8,480,true,true,false,true,Linux,true,"[""Verdana""]",false,false,true
+Conrad,ru,8,4,"[1024,576]",8,480,true,true,false,true,Linux,true,"[""Verdana""]",false,false,true
+Hans,ru,24,16,"[1152,648]",2,420,false,false,false,false,Linux,true,"[""Arial""]",false,false,false
+Hans,ru,24,16,"[1152,648]",2,420,false,false,false,false,Linux,true,"[""Arial""]",false,false,false
+Hans,ru,24,16,"[1152,648]",2,420,false,false,false,false,Linux,true,"[""Arial""]",false,false,false
+Barthold,en,12,2,"[1152,648]",2,120,true,true,false,false,Linux,false,"[""Roboto""]",true,false,false
+Barthold,en,12,2,"[1152,648]",2,120,true,true,false,false,Linux,false,"[""Roboto""]",true,false,false
+Barthold,en,12,2,"[1152,648]",2,120,true,true,false,false,Linux,false,"[""Roboto""]",true,false,false
+Ulbrecht,en,8,4,"[1366,768]",12,240,true,false,true,false,Mac,false,"[""Georgia""]",true,false,true
+Ulbrecht,en,8,4,"[1366,768]",12,240,true,false,true,false,Mac,false,"[""Georgia""]",true,false,true
+Ulbrecht,en,8,4,"[1366,768]",12,240,true,false,true,false,Mac,false,"[""Georgia""]",true,false,true
+Nikolaus,en,12,64,"[1400,1080]",1,420,false,true,true,true,Win32,false,"[""Gotham""]",true,true,false
+Nikolaus,en,12,64,"[1400,1080]",1,420,false,true,true,true,Win32,false,"[""Gotham""]",true,true,false
+Nikolaus,en,12,64,"[1400,1080]",1,420,false,true,true,true,Win32,false,"[""Gotham""]",true,true,false
+Dmitriy,en,24,32,"[1900,1200]",1,480,false,true,false,true,Linux,true,"[""Museo""]",true,false,false
+Dmitriy,en,24,32,"[1900,1200]",1,480,false,true,false,true,Linux,true,"[""Museo""]",true,false,false
+Dmitriy,en,24,32,"[1900,1200]",1,480,false,true,false,true,Linux,true,"[""Museo""]",true,false,false
+Albrecht,ru,8,1,"[1600,1200]",8,120,true,true,true,false,Linux,false,"[""Helvetica""]",true,false,false
+Albrecht,ru,8,1,"[1600,1200]",8,120,true,true,true,false,Linux,false,"[""Helvetica""]",true,false,false
+Albrecht,ru,8,1,"[1600,1200]",8,120,true,true,true,false,Linux,false,"[""Helvetica""]",true,false,false
+Yulian,ru,24,16,"[1900,1200]",12,360,false,false,true,true,Win64,false,"[""Futura""]",true,false,false
+Yulian,ru,24,16,"[1900,1200]",12,360,false,false,true,true,Win64,false,"[""Futura""]",true,false,false
+Yulian,ru,24,16,"[1900,1200]",12,360,false,false,true,true,Win64,false,"[""Futura""]",true,false,false
+Gleb,en,8,16,"[1024,768]",8,600,true,true,true,false,Win64,true,"[""Verdana""]",true,false,true
+Gleb,en,8,16,"[1024,768]",8,600,true,true,true,false,Win64,true,"[""Verdana""]",true,false,true
+Gleb,en,8,16,"[1024,768]",8,600,true,true,true,false,Win64,true,"[""Verdana""]",true,false,true
+Stefan,en,12,2,"[1280,800]",1,480,false,false,false,false,Mac,false,"[""Georgia""]",true,false,true
+Stefan,en,12,2,"[1280,800]",1,480,false,false,false,false,Mac,false,"[""Georgia""]",true,false,true
+Stefan,en,12,2,"[1280,800]",1,480,false,false,false,false,Mac,false,"[""Georgia""]",true,false,true
+Maksimilian,ru,8,32,"[1024,768]",8,480,true,false,true,false,Linux,true,"[""Arial""]",false,true,true
+Maksimilian,ru,8,32,"[1024,768]",8,480,true,false,true,false,Linux,true,"[""Arial""]",false,true,true
+Maksimilian,ru,8,32,"[1024,768]",8,480,true,false,true,false,Linux,true,"[""Arial""]",false,true,true
+Petr,ru,24,8,"[1280,720]",16,420,true,false,false,true,Mac,false,"[""Roboto""]",true,false,true
+Petr,ru,24,8,"[1280,720]",16,420,true,false,false,true,Mac,false,"[""Roboto""]",true,false,true
+Petr,ru,24,8,"[1280,720]",16,420,true,false,false,true,Mac,false,"[""Roboto""]",true,false,true
+Daniil,en,24,64,"[1280,800]",16,660,true,false,true,false,Linux,false,"[""Museo""]",false,true,false
+Daniil,en,24,64,"[1280,800]",16,660,true,false,true,false,Linux,false,"[""Museo""]",false,true,false
+Daniil,en,24,64,"[1280,800]",16,660,true,false,true,false,Linux,false,"[""Museo""]",false,true,false
+Gedeon,ru,12,32,"[960,720]",8,180,false,false,true,true,Mac,true,"[""Verdana""]",false,true,true
+Gedeon,ru,12,32,"[960,720]",8,180,false,false,true,true,Mac,true,"[""Verdana""]",false,true,true
+Gedeon,ru,12,32,"[960,720]",8,180,false,false,true,true,Mac,true,"[""Verdana""]",false,true,true
+Konstantin,en,8,16,"[960,720]",4,720,false,true,true,false,Win32,false,"[""MS Gothic""]",true,true,true
+Konstantin,en,8,16,"[960,720]",4,720,false,true,true,false,Win32,false,"[""MS Gothic""]",true,true,true
+Konstantin,en,8,16,"[960,720]",4,720,false,true,true,false,Win32,false,"[""MS Gothic""]",true,true,true
+Theodore,ru,12,32,"[1920,1080]",2,480,true,false,false,true,Win64,false,"[""Verdana""]",true,false,false
+Theodore,ru,12,32,"[1920,1080]",2,480,true,false,false,true,Win64,false,"[""Verdana""]",true,false,false
+Theodore,ru,12,32,"[1920,1080]",2,480,true,false,false,true,Win64,false,"[""Verdana""]",true,false,false
+Evgeniy,en,8,64,"[1680,1050]",8,180,false,false,false,true,Win32,false,"[""MS Gothic""]",true,false,false
+Evgeniy,en,8,64,"[1680,1050]",8,180,false,false,false,true,Win32,false,"[""MS Gothic""]",true,false,false
+Evgeniy,en,8,64,"[1680,1050]",8,180,false,false,false,true,Win32,false,"[""MS Gothic""]",true,false,false
+Alexandr,en,12,32,"[1280,800]",16,120,true,true,false,true,Mac,true,"[""Comic Sans""]",true,true,true
+Alexandr,en,12,32,"[1280,800]",16,120,true,true,false,true,Mac,true,"[""Comic Sans""]",true,true,true
+Alexandr,en,12,32,"[1280,800]",16,120,true,true,false,true,Mac,true,"[""Comic Sans""]",true,true,true
+Fedor,ru,12,2,"[1920,1440]",4,600,true,true,true,false,Win64,true,"[""Centaur""]",false,true,true
+Fedor,ru,12,2,"[1920,1440]",4,600,true,true,true,false,Win64,true,"[""Centaur""]",false,true,true
+Fedor,ru,12,2,"[1920,1440]",4,600,true,true,true,false,Win64,true,"[""Centaur""]",false,true,true
+Roman,ru,24,1,"[1920,1440]",4,420,true,true,true,false,Mac,false,"[""Pluto Sans""]",true,true,false
+Roman,ru,24,1,"[1920,1440]",4,420,true,true,true,false,Mac,false,"[""Pluto Sans""]",true,true,false
+Roman,ru,24,1,"[1920,1440]",4,420,true,true,true,false,Mac,false,"[""Pluto Sans""]",true,true,false
+Friederic,ru,24,4,"[1600,900]",12,660,true,true,false,false,Mac,false,"[""MS Gothic""]",false,true,true
+Friederic,ru,24,4,"[1600,900]",12,660,true,true,false,false,Mac,false,"[""MS Gothic""]",false,true,true
+Friederic,ru,24,4,"[1600,900]",12,660,true,true,false,false,Mac,false,"[""MS Gothic""]",false,true,true
+Gregory,ru,12,1,"[1400,1080]",16,660,true,false,false,true,Linux,false,"[""Arial""]",false,false,false
+Gregory,ru,12,1,"[1400,1080]",16,660,true,false,false,true,Linux,false,"[""Arial""]",false,false,false
+Gregory,ru,12,1,"[1400,1080]",16,660,true,false,false,true,Linux,false,"[""Arial""]",false,false,false
+Veniamin,ru,8,2,"[1680,1050]",16,420,false,false,true,true,Win64,true,"[""Pluto Sans""]",false,false,true
+Veniamin,ru,8,2,"[1680,1050]",16,420,false,false,true,true,Win64,true,"[""Pluto Sans""]",false,false,true
+Veniamin,ru,8,2,"[1680,1050]",16,420,false,false,true,true,Win64,true,"[""Pluto Sans""]",false,false,true
+Stanislav,ru,8,64,"[1920,1080]",4,660,false,false,true,false,Win64,true,"[""Comic Sans""]",false,true,false
+Stanislav,ru,8,64,"[1920,1080]",4,660,false,false,true,false,Win64,true,"[""Comic Sans""]",false,true,false
+Stanislav,ru,8,64,"[1920,1080]",4,660,false,false,true,false,Win64,true,"[""Comic Sans""]",false,true,false
+Pavel,ru,12,16,"[1024,768]",8,540,true,false,false,false,Linux,true,"[""Pluto Sans""]",true,true,false
+Pavel,ru,12,16,"[1024,768]",8,540,true,false,false,false,Linux,true,"[""Pluto Sans""]",true,true,false
+Pavel,ru,12,16,"[1024,768]",8,540,true,false,false,false,Linux,true,"[""Pluto Sans""]",true,true,false
+Klaus,en,12,16,"[1600,1200]",8,480,true,true,false,false,Linux,true,"[""Museo""]",false,false,true
+Klaus,en,12,16,"[1600,1200]",8,480,true,true,false,false,Linux,true,"[""Museo""]",false,false,true
+Klaus,en,12,16,"[1600,1200]",8,480,true,true,false,false,Linux,true,"[""Museo""]",false,false,true
+Leon,ru,24,16,"[1024,576]",1,660,true,false,true,true,Win64,true,"[""Times New Roman""]",false,false,false
+Leon,ru,24,16,"[1024,576]",1,660,true,false,true,true,Win64,true,"[""Times New Roman""]",false,false,false
+Leon,ru,24,16,"[1024,576]",1,660,true,false,true,true,Win64,true,"[""Times New Roman""]",false,false,false
+Anton,en,8,2,"[1600,1200]",8,540,true,true,true,false,Mac,false,"[""Museo""]",true,true,true
+Anton,en,8,2,"[1600,1200]",8,540,true,true,true,false,Mac,false,"[""Museo""]",true,true,true
+Anton,en,8,2,"[1600,1200]",8,540,true,true,true,false,Mac,false,"[""Museo""]",true,true,true
+Vsevolod,en,24,2,"[1280,800]",4,180,true,true,true,false,Linux,true,"[""MS Gothic""]",true,true,false
+Vsevolod,en,24,2,"[1280,800]",4,180,true,true,true,false,Linux,true,"[""MS Gothic""]",true,true,false
+Vsevolod,en,24,2,"[1280,800]",4,180,true,true,true,false,Linux,true,"[""MS Gothic""]",true,true,false
+Otto,ru,8,2,"[1280,720]",8,540,false,false,true,false,Mac,true,"[""Gotham""]",true,false,false
+Otto,ru,8,2,"[1280,720]",8,540,false,false,true,false,Mac,true,"[""Gotham""]",true,false,false
+Otto,ru,8,2,"[1280,720]",8,540,false,false,true,false,Mac,true,"[""Gotham""]",true,false,false
+Ivan,ru,12,32,"[1920,1440]",4,600,true,true,true,true,Win32,true,"[""MS Gothic""]",true,true,true
+Ivan,ru,12,32,"[1920,1440]",4,600,true,true,true,true,Win32,true,"[""MS Gothic""]",true,true,true
+Ivan,ru,12,32,"[1920,1440]",4,600,true,true,true,true,Win32,true,"[""MS Gothic""]",true,true,true
+Timur,en,8,8,"[1600,900]",1,180,true,false,false,false,Win32,false,"[""Arial""]",false,true,true
+Timur,en,8,8,"[1600,900]",1,180,true,false,false,false,Win32,false,"[""Arial""]",false,true,true
+Timur,en,8,8,"[1600,900]",1,180,true,false,false,false,Win32,false,"[""Arial""]",false,true,true
+Ilya,en,8,2,"[1024,768]",1,240,false,true,true,false,Win32,true,"[""Verdana""]",true,false,false
+Ilya,en,8,2,"[1024,768]",1,240,false,true,true,false,Win32,true,"[""Verdana""]",true,false,false
+Ilya,en,8,2,"[1024,768]",1,240,false,true,true,false,Win32,true,"[""Verdana""]",true,false,false
+Eduard,en,24,64,"[1400,1080]",2,600,false,false,true,false,Mac,true,"[""Helvetica""]",true,false,true
+Eduard,en,24,64,"[1400,1080]",2,600,false,false,true,false,Mac,true,"[""Helvetica""]",true,false,true
+Eduard,en,24,64,"[1400,1080]",2,600,false,false,true,false,Mac,true,"[""Helvetica""]",true,false,true
+Aleksey,ru,12,32,"[1400,1080]",4,480,true,false,true,false,Win32,false,"[""Arial""]",true,false,true
+Aleksey,ru,12,32,"[1400,1080]",4,480,true,false,true,false,Win32,false,"[""Arial""]",true,false,true
+Aleksey,ru,12,32,"[1400,1080]",4,480,true,false,true,false,Win32,false,"[""Arial""]",true,false,true
+Nikita,ru,12,8,"[1024,576]",1,480,false,false,true,true,Win64,false,"[""Museo""]",false,false,false
+Nikita,ru,12,8,"[1024,576]",1,480,false,false,true,true,Win64,false,"[""Museo""]",false,false,false
+Nikita,ru,12,8,"[1024,576]",1,480,false,false,true,true,Win64,false,"[""Museo""]",false,false,false
+Matvei,ru,8,16,"[1280,960]",8,240,false,false,true,false,Mac,false,"[""Verdana""]",true,false,false
+Matvei,ru,8,16,"[1280,960]",8,240,false,false,true,false,Mac,false,"[""Verdana""]",true,false,false
+Matvei,ru,8,16,"[1280,960]",8,240,false,false,true,false,Mac,false,"[""Verdana""]",true,false,false
+August,en,8,16,"[1280,960]",4,720,false,true,false,false,Win32,true,"[""Gotham""]",false,false,false
+August,en,8,16,"[1280,960]",4,720,false,true,false,false,Win32,true,"[""Gotham""]",false,false,false
+August,en,8,16,"[1280,960]",4,720,false,true,false,false,Win32,true,"[""Gotham""]",false,false,false
+Dietrich,en,12,16,"[800,600]",12,480,true,false,true,true,Win32,false,"[""Verdana""]",true,true,false
+Dietrich,en,12,16,"[800,600]",12,480,true,false,true,true,Win32,false,"[""Verdana""]",true,true,false
+Dietrich,en,12,16,"[800,600]",12,480,true,false,true,true,Win32,false,"[""Verdana""]",true,true,false
+Vladimir,en,24,2,"[800,600]",1,540,false,false,false,false,Mac,false,"[""Verdana""]",true,false,true
+Vladimir,en,24,2,"[800,600]",1,540,false,false,false,false,Mac,false,"[""Verdana""]",true,false,true
+Vladimir,en,24,2,"[800,600]",1,540,false,false,false,false,Mac,false,"[""Verdana""]",true,false,true
+Mikhail,ru,12,64,"[1600,1200]",1,600,true,false,true,true,Linux,false,"[""MS Gothic""]",false,false,false
+Mikhail,ru,12,64,"[1600,1200]",1,600,true,false,true,true,Linux,false,"[""MS Gothic""]",false,false,false
+Mikhail,ru,12,64,"[1600,1200]",1,600,true,false,true,true,Linux,false,"[""MS Gothic""]",false,false,false
+Markus,en,24,8,"[1900,1200]",8,180,false,true,true,false,Win32,false,"[""Times New Roman""]",false,false,false
+Markus,en,24,8,"[1900,1200]",8,180,false,true,true,false,Win32,false,"[""Times New Roman""]",false,false,false
+Markus,en,24,8,"[1900,1200]",8,180,false,true,true,false,Win32,false,"[""Times New Roman""]",false,false,false
+Boris,en,8,64,"[2560,1440]",1,420,false,false,true,false,Win64,true,"[""Times New Roman""]",true,false,true
+Boris,en,8,64,"[2560,1440]",1,420,false,false,true,false,Win64,true,"[""Times New Roman""]",true,false,true
+Boris,en,8,64,"[2560,1440]",1,420,false,false,true,false,Win64,true,"[""Times New Roman""]",true,false,true
+Rodion,en,8,8,"[1600,900]",12,300,true,true,true,false,Linux,false,"[""Museo""]",false,false,true
+Rodion,en,8,8,"[1600,900]",12,300,true,true,true,false,Linux,false,"[""Museo""]",false,false,true
+Rodion,en,8,8,"[1600,900]",12,300,true,true,true,false,Linux,false,"[""Museo""]",false,false,true
+Anatolii,en,8,16,"[1400,1080]",12,300,false,true,true,false,Win32,false,"[""Verdana""]",false,true,true
+Anatolii,en,8,16,"[1400,1080]",12,300,false,true,true,false,Win32,false,"[""Verdana""]",false,true,true
+Anatolii,en,8,16,"[1400,1080]",12,300,false,true,true,false,Win32,false,"[""Verdana""]",false,true,true
+Eduard,ru,12,1,"[1024,576]",1,360,true,true,true,true,Mac,true,"[""Comic Sans""]",true,true,true
+Eduard,ru,12,1,"[1024,576]",1,360,true,true,true,true,Mac,true,"[""Comic Sans""]",true,true,true
+Eduard,ru,12,1,"[1024,576]",1,360,true,true,true,true,Mac,true,"[""Comic Sans""]",true,true,true
+Ulbrecht,en,24,64,"[640,480]",1,360,true,false,true,true,Win64,false,"[""MS Gothic""]",true,false,false
+Ulbrecht,en,24,64,"[640,480]",1,360,true,false,true,true,Win64,false,"[""MS Gothic""]",true,false,false
+Ulbrecht,en,24,64,"[640,480]",1,360,true,false,true,true,Win64,false,"[""MS Gothic""]",true,false,false
+Hilbert,en,24,64,"[1920,1080]",16,120,true,true,false,true,Win32,true,"[""Calibri""]",false,false,false
+Hilbert,en,24,64,"[1920,1080]",16,120,true,true,false,true,Win32,true,"[""Calibri""]",false,false,false
+Hilbert,en,24,64,"[1920,1080]",16,120,true,true,false,true,Win32,true,"[""Calibri""]",false,false,false
+Timur,ru,24,32,"[2560,1600]",1,240,true,true,false,false,Win64,true,"[""Verdana""]",true,true,true
+Timur,ru,24,32,"[2560,1600]",1,240,true,true,false,false,Win64,true,"[""Verdana""]",true,true,true
+Timur,ru,24,32,"[2560,1600]",1,240,true,true,false,false,Win64,true,"[""Verdana""]",true,true,true
+Markus,en,8,32,"[1024,768]",1,120,true,true,false,false,Linux,true,"[""Helvetica""]",false,true,true
+Markus,en,8,32,"[1024,768]",1,120,true,true,false,false,Linux,true,"[""Helvetica""]",false,true,true
+Markus,en,8,32,"[1024,768]",1,120,true,true,false,false,Linux,true,"[""Helvetica""]",false,true,true
+Conrad,ru,12,32,"[1920,1440]",8,600,false,false,true,true,Win32,false,"[""Centaur""]",true,false,false
+Conrad,ru,12,32,"[1920,1440]",8,600,false,false,true,true,Win32,false,"[""Centaur""]",true,false,false
+Conrad,ru,12,32,"[1920,1440]",8,600,false,false,true,true,Win32,false,"[""Centaur""]",true,false,false
+Klaus,ru,24,16,"[1920,1440]",4,360,false,false,true,true,Linux,false,"[""Helvetica""]",false,false,false
+Klaus,ru,24,16,"[1920,1440]",4,360,false,false,true,true,Linux,false,"[""Helvetica""]",false,false,false
+Klaus,ru,24,16,"[1920,1440]",4,360,false,false,true,true,Linux,false,"[""Helvetica""]",false,false,false
+Veniamin,ru,8,2,"[1600,1200]",4,540,true,true,false,true,Win64,true,"[""Arial""]",false,true,true
+Veniamin,ru,8,2,"[1600,1200]",4,540,true,true,false,true,Win64,true,"[""Arial""]",false,true,true
+Veniamin,ru,8,2,"[1600,1200]",4,540,true,true,false,true,Win64,true,"[""Arial""]",false,true,true
+Fedor,en,24,16,"[1440,900]",8,420,false,false,false,true,Win32,false,"[""Verdana""]",true,true,true
+Fedor,en,24,16,"[1440,900]",8,420,false,false,false,true,Win32,false,"[""Verdana""]",true,true,true
+Fedor,en,24,16,"[1440,900]",8,420,false,false,false,true,Win32,false,"[""Verdana""]",true,true,true
+Vsevolod,ru,12,4,"[1920,1440]",4,660,true,true,true,true,Linux,true,"[""Futura""]",true,false,true
+Vsevolod,ru,12,4,"[1920,1440]",4,660,true,true,true,true,Linux,true,"[""Futura""]",true,false,true
+Vsevolod,ru,12,4,"[1920,1440]",4,660,true,true,true,true,Linux,true,"[""Futura""]",true,false,true
+Gregory,ru,12,32,"[1024,768]",8,360,false,true,false,true,Win32,false,"[""Georgia""]",true,false,false
+Gregory,ru,12,32,"[1024,768]",8,360,false,true,false,true,Win32,false,"[""Georgia""]",true,false,false
+Gregory,ru,12,32,"[1024,768]",8,360,false,true,false,true,Win32,false,"[""Georgia""]",true,false,false
+Hans,ru,12,4,"[1152,648]",16,240,false,false,false,true,Mac,true,"[""MS Gothic""]",false,false,false
+Hans,ru,12,4,"[1152,648]",16,240,false,false,false,true,Mac,true,"[""MS Gothic""]",false,false,false
+Hans,ru,12,4,"[1152,648]",16,240,false,false,false,true,Mac,true,"[""MS Gothic""]",false,false,false
+Daniil,ru,8,2,"[1680,1050]",16,600,false,true,false,false,Win64,false,"[""Pluto Sans""]",false,true,false
+Daniil,ru,8,2,"[1680,1050]",16,600,false,true,false,false,Win64,false,"[""Pluto Sans""]",false,true,false
+Daniil,ru,8,2,"[1680,1050]",16,600,false,true,false,false,Win64,false,"[""Pluto Sans""]",false,true,false
+August,en,8,64,"[1366,768]",12,720,true,true,true,false,Linux,false,"[""Arial""]",false,false,false
+August,en,8,64,"[1366,768]",12,720,true,true,true,false,Linux,false,"[""Arial""]",false,false,false
+August,en,8,64,"[1366,768]",12,720,true,true,true,false,Linux,false,"[""Arial""]",false,false,false
+Boris,en,24,64,"[640,480]",8,360,true,false,true,false,Linux,true,"[""Arial""]",true,false,false
+Boris,en,24,64,"[640,480]",8,360,true,false,true,false,Linux,true,"[""Arial""]",true,false,false
+Boris,en,24,64,"[640,480]",8,360,true,false,true,false,Linux,true,"[""Arial""]",true,false,false
+Petr,ru,12,64,"[1024,768]",2,600,true,true,false,false,Mac,false,"[""Verdana""]",true,false,true
+Petr,ru,12,64,"[1024,768]",2,600,true,true,false,false,Mac,false,"[""Verdana""]",true,false,true
+Petr,ru,12,64,"[1024,768]",2,600,true,true,false,false,Mac,false,"[""Verdana""]",true,false,true
+Vladimir,ru,8,8,"[1280,960]",8,480,true,true,true,false,Win32,true,"[""Verdana""]",true,true,false
+Vladimir,ru,8,8,"[1280,960]",8,480,true,true,true,false,Win32,true,"[""Verdana""]",true,true,false
+Vladimir,ru,8,8,"[1280,960]",8,480,true,true,true,false,Win32,true,"[""Verdana""]",true,true,false
+Andrei,ru,24,2,"[1280,720]",1,600,true,true,false,true,Win64,true,"[""Comic Sans""]",true,true,true
+Andrei,ru,24,2,"[1280,720]",1,600,true,true,false,true,Win64,true,"[""Comic Sans""]",true,true,true
+Andrei,ru,24,2,"[1280,720]",1,600,true,true,false,true,Win64,true,"[""Comic Sans""]",true,true,true
+Barthold,ru,8,8,"[2560,1600]",4,240,false,true,true,true,Win64,true,"[""Calibri""]",true,false,false
+Barthold,ru,8,8,"[2560,1600]",4,240,false,true,true,true,Win64,true,"[""Calibri""]",true,false,false
+Barthold,ru,8,8,"[2560,1600]",4,240,false,true,true,true,Win64,true,"[""Calibri""]",true,false,false
+Dmitriy,ru,8,1,"[1600,900]",1,120,false,true,true,true,Linux,false,"[""Calibri""]",false,true,false
+Dmitriy,ru,8,1,"[1600,900]",1,120,false,true,true,true,Linux,false,"[""Calibri""]",false,true,false
+Dmitriy,ru,8,1,"[1600,900]",1,120,false,true,true,true,Linux,false,"[""Calibri""]",false,true,false
+Ivan,en,12,4,"[1280,800]",2,540,false,false,false,true,Win32,false,"[""Museo""]",false,true,false
+Ivan,en,12,4,"[1280,800]",2,540,false,false,false,true,Win32,false,"[""Museo""]",false,true,false
+Ivan,en,12,4,"[1280,800]",2,540,false,false,false,true,Win32,false,"[""Museo""]",false,true,false
+Anton,ru,12,4,"[1920,1440]",2,660,false,true,false,true,Win32,false,"[""Pluto Sans""]",false,false,false
+Anton,ru,12,4,"[1920,1440]",2,660,false,true,false,true,Win32,false,"[""Pluto Sans""]",false,false,false
+Anton,ru,12,4,"[1920,1440]",2,660,false,true,false,true,Win32,false,"[""Pluto Sans""]",false,false,false
+Gedeon,en,8,32,"[1600,900]",2,600,true,true,true,false,Win32,false,"[""Roboto""]",true,true,false
+Gedeon,en,8,32,"[1600,900]",2,600,true,true,true,false,Win32,false,"[""Roboto""]",true,true,false
+Gedeon,en,8,32,"[1600,900]",2,600,true,true,true,false,Win32,false,"[""Roboto""]",true,true,false
+Aleksey,en,8,8,"[1024,576]",4,660,false,true,true,false,Win32,false,"[""Comic Sans""]",false,false,false
+Aleksey,en,8,8,"[1024,576]",4,660,false,true,true,false,Win32,false,"[""Comic Sans""]",false,false,false
+Aleksey,en,8,8,"[1024,576]",4,660,false,true,true,false,Win32,false,"[""Comic Sans""]",false,false,false
+Matvei,ru,8,16,"[1280,800]",1,480,true,true,false,false,Win64,false,"[""Pluto Sans""]",true,true,false
+Matvei,ru,8,16,"[1280,800]",1,480,true,true,false,false,Win64,false,"[""Pluto Sans""]",true,true,false
+Matvei,ru,8,16,"[1280,800]",1,480,true,true,false,false,Win64,false,"[""Pluto Sans""]",true,true,false
+Maksimilian,en,12,4,"[800,600]",1,420,false,false,false,true,Linux,true,"[""Museo""]",true,true,true
+Maksimilian,en,12,4,"[800,600]",1,420,false,false,false,true,Linux,true,"[""Museo""]",true,true,true
+Maksimilian,en,12,4,"[800,600]",1,420,false,false,false,true,Linux,true,"[""Museo""]",true,true,true
+Nikolaus,ru,8,16,"[1400,1080]",2,540,false,false,false,true,Linux,true,"[""Helvetica""]",false,false,false
+Nikolaus,ru,8,16,"[1400,1080]",2,540,false,false,false,true,Linux,true,"[""Helvetica""]",false,false,false
+Nikolaus,ru,8,16,"[1400,1080]",2,540,false,false,false,true,Linux,true,"[""Helvetica""]",false,false,false
+Filipp,en,12,16,"[1900,1200]",2,660,true,true,true,false,Win32,true,"[""Times New Roman""]",false,true,true
+Filipp,en,12,16,"[1900,1200]",2,660,true,true,true,false,Win32,true,"[""Times New Roman""]",false,true,true
+Filipp,en,12,16,"[1900,1200]",2,660,true,true,true,false,Win32,true,"[""Times New Roman""]",false,true,true
+Pavel,en,12,1,"[1280,800]",1,720,false,false,true,false,Linux,true,"[""Gotham""]",false,false,true
+Pavel,en,12,1,"[1280,800]",1,720,false,false,true,false,Linux,true,"[""Gotham""]",false,false,true
+Pavel,en,12,1,"[1280,800]",1,720,false,false,true,false,Linux,true,"[""Gotham""]",false,false,true
+Roman,en,12,8,"[640,480]",4,300,false,false,false,false,Linux,true,"[""MS Gothic""]",false,false,false
+Roman,en,12,8,"[640,480]",4,300,false,false,false,false,Linux,true,"[""MS Gothic""]",false,false,false
+Roman,en,12,8,"[640,480]",4,300,false,false,false,false,Linux,true,"[""MS Gothic""]",false,false,false
+Albrecht,en,8,2,"[1366,768]",4,600,false,false,true,true,Win64,true,"[""Pluto Sans""]",false,false,true
+Albrecht,en,8,2,"[1366,768]",4,600,false,false,true,true,Win64,true,"[""Pluto Sans""]",false,false,true
+Albrecht,en,8,2,"[1366,768]",4,600,false,false,true,true,Win64,true,"[""Pluto Sans""]",false,false,true
+Konstantin,en,24,1,"[1152,648]",8,720,true,false,true,true,Linux,true,"[""MS Gothic""]",true,true,false
+Konstantin,en,24,1,"[1152,648]",8,720,true,false,true,true,Linux,true,"[""MS Gothic""]",true,true,false
+Konstantin,en,24,1,"[1152,648]",8,720,true,false,true,true,Linux,true,"[""MS Gothic""]",true,true,false
+Otto,ru,12,1,"[1600,1200]",12,540,true,false,false,false,Linux,false,"[""Georgia""]",true,false,true
+Otto,ru,12,1,"[1600,1200]",12,540,true,false,false,false,Linux,false,"[""Georgia""]",true,false,true
+Otto,ru,12,1,"[1600,1200]",12,540,true,false,false,false,Linux,false,"[""Georgia""]",true,false,true
+Stas,en,12,8,"[1024,768]",4,300,false,true,true,false,Linux,false,"[""Gotham""]",true,true,false
+Stas,en,12,8,"[1024,768]",4,300,false,true,true,false,Linux,false,"[""Gotham""]",true,true,false
+Stas,en,12,8,"[1024,768]",4,300,false,true,true,false,Linux,false,"[""Gotham""]",true,true,false
+Alexandr,en,12,2,"[1152,648]",16,240,true,true,true,true,Win64,false,"[""Pluto Sans""]",false,false,true
+Alexandr,en,12,2,"[1152,648]",16,240,true,true,true,true,Win64,false,"[""Pluto Sans""]",false,false,true
+Alexandr,en,12,2,"[1152,648]",16,240,true,true,true,true,Win64,false,"[""Pluto Sans""]",false,false,true
+Yulian,en,24,16,"[2560,1440]",8,420,true,false,true,false,Linux,false,"[""Centaur""]",true,false,true
+Yulian,en,24,16,"[2560,1440]",8,420,true,false,true,false,Linux,false,"[""Centaur""]",true,false,true
+Yulian,en,24,16,"[2560,1440]",8,420,true,false,true,false,Linux,false,"[""Centaur""]",true,false,true
+Gleb,en,24,32,"[1152,648]",8,300,false,true,false,false,Mac,true,"[""Arial""]",true,false,true
+Gleb,en,24,32,"[1152,648]",8,300,false,true,false,false,Mac,true,"[""Arial""]",true,false,true
+Gleb,en,24,32,"[1152,648]",8,300,false,true,false,false,Mac,true,"[""Arial""]",true,false,true
+Leon,ru,24,1,"[1600,900]",2,420,true,true,false,false,Win64,true,"[""Gotham""]",false,false,true
+Leon,ru,24,1,"[1600,900]",2,420,true,true,false,false,Win64,true,"[""Gotham""]",false,false,true
+Leon,ru,24,1,"[1600,900]",2,420,true,true,false,false,Win64,true,"[""Gotham""]",false,false,true
+Nikita,en,24,32,"[1024,576]",4,720,true,false,false,false,Mac,false,"[""Georgia""]",false,false,true
+Nikita,en,24,32,"[1024,576]",4,720,true,false,false,false,Mac,false,"[""Georgia""]",false,false,true
+Nikita,en,24,32,"[1024,576]",4,720,true,false,false,false,Mac,false,"[""Georgia""]",false,false,true
+Maksim,ru,24,16,"[1024,576]",4,360,false,true,true,false,Mac,false,"[""Georgia""]",false,true,true
+Maksim,ru,24,16,"[1024,576]",4,360,false,true,true,false,Mac,false,"[""Georgia""]",false,true,true
+Maksim,ru,24,16,"[1024,576]",4,360,false,true,true,false,Mac,false,"[""Georgia""]",false,true,true
+Stefan,en,24,64,"[640,480]",8,540,false,false,true,true,Win32,true,"[""Comic Sans""]",true,false,true
+Stefan,en,24,64,"[640,480]",8,540,false,false,true,true,Win32,true,"[""Comic Sans""]",true,false,true
+Stefan,en,24,64,"[640,480]",8,540,false,false,true,true,Win32,true,"[""Comic Sans""]",true,false,true
+Ilya,en,12,4,"[800,600]",12,720,false,false,false,true,Win32,false,"[""Futura""]",true,true,false
+Ilya,en,12,4,"[800,600]",12,720,false,false,false,true,Win32,false,"[""Futura""]",true,true,false
+Ilya,en,12,4,"[800,600]",12,720,false,false,false,true,Win32,false,"[""Futura""]",true,true,false
+Stanislav,en,12,32,"[1400,1080]",12,300,false,true,false,false,Linux,true,"[""Museo""]",false,false,true
+Stanislav,en,12,32,"[1400,1080]",12,300,false,true,false,false,Linux,true,"[""Museo""]",false,false,true
+Stanislav,en,12,32,"[1400,1080]",12,300,false,true,false,false,Linux,true,"[""Museo""]",false,false,true
+Mikhail,en,24,4,"[2560,1600]",2,720,true,true,true,true,Linux,false,"[""Gotham""]",true,false,false
+Mikhail,en,24,4,"[2560,1600]",2,720,true,true,true,true,Linux,false,"[""Gotham""]",true,false,false
+Mikhail,en,24,4,"[2560,1600]",2,720,true,true,true,true,Linux,false,"[""Gotham""]",true,false,false
+Rodion,en,24,1,"[2560,1440]",8,420,false,false,true,true,Win32,false,"[""Arial""]",false,false,true
+Rodion,en,24,1,"[2560,1440]",8,420,false,false,true,true,Win32,false,"[""Arial""]",false,false,true
+Rodion,en,24,1,"[2560,1440]",8,420,false,false,true,true,Win32,false,"[""Arial""]",false,false,true
+Theodore,en,24,16,"[1900,1200]",12,180,false,false,false,false,Mac,true,"[""Arial""]",false,true,false
+Theodore,en,24,16,"[1900,1200]",12,180,false,false,false,false,Mac,true,"[""Arial""]",false,true,false
+Theodore,en,24,16,"[1900,1200]",12,180,false,false,false,false,Mac,true,"[""Arial""]",false,true,false
+Dietrich,en,8,4,"[1366,768]",16,120,false,false,true,false,Win32,false,"[""Calibri""]",false,true,false
+Dietrich,en,8,4,"[1366,768]",16,120,false,false,true,false,Win32,false,"[""Calibri""]",false,true,false
+Dietrich,en,8,4,"[1366,768]",16,120,false,false,true,false,Win32,false,"[""Calibri""]",false,true,false
+Friederic,en,12,64,"[960,720]",1,180,true,false,false,true,Mac,false,"[""Gotham""]",false,false,true
+Friederic,en,12,64,"[960,720]",1,180,true,false,false,true,Mac,false,"[""Gotham""]",false,false,true
+Friederic,en,12,64,"[960,720]",1,180,true,false,false,true,Mac,false,"[""Gotham""]",false,false,true
+Evgeniy,en,12,1,"[1280,800]",2,420,true,true,true,false,Win32,true,"[""Helvetica""]",true,false,false
+Evgeniy,en,12,1,"[1280,800]",2,420,true,true,true,false,Win32,true,"[""Helvetica""]",true,false,false
+Evgeniy,en,12,1,"[1280,800]",2,420,true,true,true,false,Win32,true,"[""Helvetica""]",true,false,false
